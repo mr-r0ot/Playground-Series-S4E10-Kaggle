@@ -100,5 +100,4 @@ We present a reusable, scalable pipeline delivering 95.27% out-of-fold accuracy 
 
 ## Appendix
 
-* Complete code scripts available on GitHub repository
-* Extended tables for feature importance and cross-validation agreement
+* Complete code scripts available on GitHub repository: https://github.com/mr-r0ot/Playground-Series-S4E10-Kaggle
